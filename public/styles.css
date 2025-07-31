@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+.h-60 {
+    height: 60vh;
+}
+
+.container .header h5 {
+    font-style: italic;
+}
+
+.h-70 {
+    height: 70vh;
+}
+
+.w-90 {
+    width: 90%;
+}
+.h-85{
+    height: 85vh;
+}
+
+.container {
+    box-shadow: 0 8px 8px rgba(0, 0, 0, 0.289);
+    scrollbar-width: none;
+}
+
+.fetched-data {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.w-27 {
+    width: 27%;
+}
